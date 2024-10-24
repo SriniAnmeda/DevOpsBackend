@@ -1,0 +1,9 @@
+
+*.dll
+*.pdb
+*.exe
+/bin
+/obj
+*.vsidx
+*.config
+/.vs
